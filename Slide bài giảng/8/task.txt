@@ -1,0 +1,16 @@
+For download xml file use the class WebClient.
+
+ using (WebClient wc = new WebClient())
+{
+    //wc.DownloadFile("http://feeds.bbci.co.uk/news/health/rss.xml", "...");
+
+    string s = wc.DownloadString("http://feeds.bbci.co.uk/news/health/rss.xml");
+    XmlDocument xml = new XmlDocument();
+    xml.LoadXml(s);
+}
+Task 1)
+- For working with XML document use class XmlDocument
+- Write to the console captions, where first word is VIDEO
+- From DOM remove elements <item>…<\item>, which doesn’t contains word VIDEO
+- When you removing elements and print to the console what exactly happens – for this use events with is possible find in the class XmlDocument
+- Save the xml document to the disk.

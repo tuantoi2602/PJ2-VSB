@@ -1,0 +1,21 @@
+Tasks:
+
+1)Create a Class Library, containing class Greeter with method string SayHello(string name)
+
+2)Create a Console application and add a reference to the newly created library
+
+3)Call method SayHello for each command-line argument and write the result to a Console
+
+4)Use the same approach to the user input until the user doesn't write "exit"
+
+5)Create a console application -> prints numbers 1 to 10.
+
+
+Command-line Compilation:
+
+Compile the program above from your command line.
+
+Command-line compilation is performed via C# compiler (csc.exe) (directly from Visual Studio Command Prompt or via Command Line - csc.exe can be found in folder C:\Windows\Microsoft.NET\Framework\v4.0.30319):
+csc File.cs - compiles File.cs and creates File.exe
+csc /target:library /out:My.dll File.cs - compiles File.cs and creates library My.dll
+csc /out:Something.exe *.cs - compiles all .cs files in the directory and creates Something.exe

@@ -1,0 +1,15 @@
+Contact 1
+25
+c1@vsb.cz
+85
+True
+Contact 2
+90
+c2@vsb.cz
+70
+False
+Contact 3
+30
+c3@vsb.cz
+105
+True

@@ -1,0 +1,10 @@
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV3\bin\Debug\CV3.exe
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV3\bin\Debug\CV3.pdb
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV3\obj\Debug\CV3.csprojResolveAssemblyReference.cache
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV3\obj\Debug\CV3.Form1.resources
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV3\obj\Debug\CV3.Properties.Resources.resources
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV3\obj\Debug\CV3.csproj.GenerateResource.Cache
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV3\obj\Debug\CV3.exe
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV3\obj\Debug\CV3.pdb
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV3\bin\Debug\CV3Library.dll
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV3\bin\Debug\CV3Library.pdb

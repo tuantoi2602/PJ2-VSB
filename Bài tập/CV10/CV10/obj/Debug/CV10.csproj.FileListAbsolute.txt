@@ -1,0 +1,7 @@
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV10\bin\Debug\CV10.exe
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV10\bin\Debug\CV10.pdb
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV10\bin\Debug\CV10Library.dll
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV10\bin\Debug\CV10Library.pdb
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV10\obj\Debug\CV10.csprojResolveAssemblyReference.cache
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV10\obj\Debug\CV10.exe
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV10\obj\Debug\CV10.pdb

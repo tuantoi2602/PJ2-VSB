@@ -1,0 +1,16 @@
+C:\Users\Lumír\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\bin\Debug\CV4.exe.config
+C:\Users\Lumír\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\bin\Debug\CV4.exe
+C:\Users\Lumír\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\bin\Debug\CV4.pdb
+C:\Users\Lumír\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\bin\Debug\CV4Library.dll
+C:\Users\Lumír\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\bin\Debug\CV4Library.pdb
+C:\Users\Lumír\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\obj\Debug\CV4.csprojResolveAssemblyReference.cache
+C:\Users\Lumír\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\obj\Debug\CV4.exe
+C:\Users\Lumír\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\obj\Debug\CV4.pdb
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\bin\Debug\CV4.exe.config
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\obj\Debug\CV4.exe
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\obj\Debug\CV4.pdb
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\bin\Debug\CV4.exe
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\bin\Debug\CV4.pdb
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\bin\Debug\CV4Library.dll
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\bin\Debug\CV4Library.pdb
+C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV4\obj\Debug\CV4.csprojResolveAssemblyReference.cache
