@@ -1,5 +1,0 @@
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV8Library\bin\Debug\CV8Library.dll
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV8Library\bin\Debug\CV8Library.pdb
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV8Library\obj\Debug\CV8Library.csprojResolveAssemblyReference.cache
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV8Library\obj\Debug\CV8Library.dll
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV8Library\obj\Debug\CV8Library.pdb

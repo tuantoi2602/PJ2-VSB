@@ -1,7 +1,0 @@
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV5\bin\Debug\CV5.exe
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV5\bin\Debug\CV5.pdb
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV5\bin\Debug\CV5Library.dll
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV5\bin\Debug\CV5Library.pdb
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV5\obj\Debug\CV5.csprojResolveAssemblyReference.cache
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV5\obj\Debug\CV5.exe
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\Programming Languages II\CV5\obj\Debug\CV5.pdb

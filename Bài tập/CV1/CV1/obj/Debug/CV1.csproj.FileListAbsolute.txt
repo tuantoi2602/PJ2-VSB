@@ -1,7 +1,0 @@
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV1\bin\Debug\CV1.exe
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV1\bin\Debug\CV1.pdb
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV1\bin\Debug\CV1Library.dll
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV1\bin\Debug\CV1Library.pdb
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV1\obj\Debug\CV1.csprojResolveAssemblyReference.cache
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV1\obj\Debug\CV1.exe
-C:\Users\kojec\Documents\MEGA\School\FEI - PhD\Teaching\Programming Languages II\CV1\obj\Debug\CV1.pdb
