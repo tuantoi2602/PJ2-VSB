@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfContact xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Contact>
+    <Name>Contact 1</Name>
+    <Age>25</Age>
+    <Email>c1@vsb.cz</Email>
+    <BirthDate>0001-01-01T00:00:00</BirthDate>
+    <Weight>85</Weight>
+    <IsMarried>true</IsMarried>
+  </Contact>
+  <Contact>
+    <Name>Contact 2</Name>
+    <Age>90</Age>
+    <Email>c2@vsb.cz</Email>
+    <BirthDate>0001-01-01T00:00:00</BirthDate>
+    <Weight>70</Weight>
+    <IsMarried>false</IsMarried>
+  </Contact>
+  <Contact>
+    <Name>Contact 3</Name>
+    <Age>30</Age>
+    <Email>c3@vsb.cz</Email>
+    <BirthDate>0001-01-01T00:00:00</BirthDate>
+    <Weight>105</Weight>
+    <IsMarried>true</IsMarried>
+  </Contact>
+</ArrayOfContact>

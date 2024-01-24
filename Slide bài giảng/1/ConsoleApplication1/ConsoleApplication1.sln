@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{1369CA05-6694-436B-B41A-E55D6C432957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{796A75BE-465D-4A3F-8179-3B21C5E8FBF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationForeach", "ConsoleApplicationForeach\ConsoleApplicationForeach.csproj", "{0C54D223-1A75-49B6-99C5-5FD3657A4EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1369CA05-6694-436B-B41A-E55D6C432957}.Debug|x86.ActiveCfg = Debug|x86
+		{1369CA05-6694-436B-B41A-E55D6C432957}.Debug|x86.Build.0 = Debug|x86
+		{1369CA05-6694-436B-B41A-E55D6C432957}.Release|x86.ActiveCfg = Release|x86
+		{1369CA05-6694-436B-B41A-E55D6C432957}.Release|x86.Build.0 = Release|x86
+		{796A75BE-465D-4A3F-8179-3B21C5E8FBF7}.Debug|x86.ActiveCfg = Debug|x86
+		{796A75BE-465D-4A3F-8179-3B21C5E8FBF7}.Debug|x86.Build.0 = Debug|x86
+		{796A75BE-465D-4A3F-8179-3B21C5E8FBF7}.Release|x86.ActiveCfg = Release|x86
+		{796A75BE-465D-4A3F-8179-3B21C5E8FBF7}.Release|x86.Build.0 = Release|x86
+		{0C54D223-1A75-49B6-99C5-5FD3657A4EFD}.Debug|x86.ActiveCfg = Debug|x86
+		{0C54D223-1A75-49B6-99C5-5FD3657A4EFD}.Debug|x86.Build.0 = Debug|x86
+		{0C54D223-1A75-49B6-99C5-5FD3657A4EFD}.Release|x86.ActiveCfg = Release|x86
+		{0C54D223-1A75-49B6-99C5-5FD3657A4EFD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

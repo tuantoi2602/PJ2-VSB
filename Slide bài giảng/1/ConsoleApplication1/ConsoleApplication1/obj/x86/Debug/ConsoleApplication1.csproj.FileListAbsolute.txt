@@ -1,0 +1,5 @@
+D:\Courses\leto 2012\PJ II\prednasky\2\Priklady\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Courses\leto 2012\PJ II\prednasky\2\Priklady\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Courses\leto 2012\PJ II\prednasky\2\Priklady\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Courses\leto 2012\PJ II\prednasky\2\Priklady\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Courses\leto 2012\PJ II\prednasky\2\Priklady\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+Task 1 - Generic types
+Modify the code stack from previous exercise so that the generic and allows you to store objects of different types.
+To demonstrate, use twice a stack: once for integers and second for strings.
+
+Task 2 - Events
+Convert the code for taxi stored on a shared storage device, so that instead of the interface will use events.

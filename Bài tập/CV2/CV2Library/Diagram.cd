@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="CV2Library.IMyCollection">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAA=</HashCode>
+      <FileName>IMyCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CV2Library.IMyQueue">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMyQueue.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CV2Library.IMyStack">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAACAA=</HashCode>
+      <FileName>IMyStack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
