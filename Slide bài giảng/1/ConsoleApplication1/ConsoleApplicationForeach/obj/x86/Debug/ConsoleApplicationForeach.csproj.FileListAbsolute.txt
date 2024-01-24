@@ -1,5 +1,0 @@
-D:\Courses\leto 2012\PJ II\prednasky\2\Priklady\ConsoleApplication1\ConsoleApplicationForeach\bin\Debug\ConsoleApplicationForeach.exe
-D:\Courses\leto 2012\PJ II\prednasky\2\Priklady\ConsoleApplication1\ConsoleApplicationForeach\bin\Debug\ConsoleApplicationForeach.pdb
-D:\Courses\leto 2012\PJ II\prednasky\2\Priklady\ConsoleApplication1\ConsoleApplicationForeach\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Courses\leto 2012\PJ II\prednasky\2\Priklady\ConsoleApplication1\ConsoleApplicationForeach\obj\x86\Debug\ConsoleApplicationForeach.exe
-D:\Courses\leto 2012\PJ II\prednasky\2\Priklady\ConsoleApplication1\ConsoleApplicationForeach\obj\x86\Debug\ConsoleApplicationForeach.pdb
